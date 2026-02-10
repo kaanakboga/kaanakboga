@@ -24,7 +24,6 @@
 - 🕹️ I’m currently working on **2D/3D Game Development Projects**
 - 🌱 I’m learning advanced **graphics programming** and **shader development**
 - 🎯 Focused on building **interactive**, **visually rich**, and **fun** experiences
-- 📫 Reach me: kaanakboga@example.com *(örnek, istersen değiştiririm)*
 - 🔗 LinkedIn: [linkedin.com/in/kaanakboga](https://linkedin.com)
 
 ---
